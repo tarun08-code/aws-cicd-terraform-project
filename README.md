@@ -310,7 +310,8 @@ This project is open source and available under the MIT License.
 ## 🎬 Live Demo
 
 **Application URL**: http://34.235.244.5  
-**Jenkins Dashboard**: http://34.235.244.5:8080  
+**Jenkins Dashboard**: http://34.235.244.5:8080 
+**Backend Dashboard:http://34.235.244.5:5000/health
 
 ### Features Demonstrated:
 - ✅ Automated infrastructure provisioning with Terraform
