@@ -9,7 +9,7 @@
 
 ---
 
-## 🎬 Live Demo (only if ec2 is running)
+## 🎬 Live Demo (only while ec2 is up and running)
 
 **🌐 Application**: http://34.235.244.5  
 **⚙️ Jenkins**: http://34.235.244.5:8080  
